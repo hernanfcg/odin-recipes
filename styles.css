@@ -5,3 +5,12 @@
 body {
     background-color: rgb(245, 230, 191);
 }
+
+h1 {
+    text-decoration: underline;
+}
+
+.header {
+    color: #5c3511;
+    text-align: center;
+} 
