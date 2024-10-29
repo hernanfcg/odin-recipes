@@ -13,4 +13,8 @@ h1 {
 .header {
     color: #5c3511;
     text-align: center;
-} 
+}
+
+ul,ol,.para {
+    font-size: 18px;
+}
