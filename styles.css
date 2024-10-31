@@ -3,7 +3,8 @@
 }
 
 body {
-    background-color: rgb(245, 230, 191);
+    color: #3c3836;
+    background-color: #f2e5bc;
 }
 
 h1 {
@@ -20,7 +21,6 @@ h3 {
 
 
 .header {
-    color: #5c3511;
     text-align: center;
 }
 
